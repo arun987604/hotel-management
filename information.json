@@ -1,7 +1,7 @@
 {
     "arun":{
         "age":21,
-        "education":"btech"
-        
+        "education":"btech",
+        "college":"GNE"
     }
 }
